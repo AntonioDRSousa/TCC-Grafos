@@ -11,10 +11,10 @@ In this research, we built a method of drawing in 2-pages K(n,2) and drawed K(6,
 
 In my TCC, I find and proof a upper and lower bound of &nu;_2(K(n,2)) for odd case using the same drawing method, and proof asymptotic value of &Theta;(n^8) with leading term for lower bound of 2^-13 and leading term for upper bound of 2^-10. Finally, I proof that &nu;(K(n,2)) = &nu;_2(K(n,2)) = &Theta;(n^8) = &Theta;(|V(K(n,2))|^4) with leading term for lower bound of 2^-13 and leading term for upper bound of 2^-10 for even and odd cases. Further, I implemented 4 codes in python:
 
-- [desenho.py] : calculate the &nu;_2(K(n,2)) and each of 5 crossing types, for any n using this drawing method;
+- [desenho.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/desenho.py) : calculate the &nu;_2(K(n,2)) and each of 5 crossing types, for any n using this drawing method;
 - [slope.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/slope.py) : code implemented the Slope Algorithm[Klerk,Pasechnik,Salazar’2018] used in this work because give the optimal drawing in 2-pages for Complete Graph;
-- [berge.py] : Berge Algorithm[Claude Berge’1973] that Mario Pabon introduce for create a hamiltonian cycle with separated cliques of K(n,2) . The code output a table in that each cell are a vertice and each column are a clique of K(n,2), and  Hamiltonian Path for K(n,2);
-- [drawing-graph-1.py] : receiving as input a integer n generate automatically a image in .png with drawing of K(n,2) using this method as output;
+- [berge.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/berge.py) : Berge Algorithm[Claude Berge’1973] that Mario Pabon introduce for create a hamiltonian cycle with separated cliques of K(n,2) . The code output a table in that each cell are a vertice and each column are a clique of K(n,2), and  Hamiltonian Path for K(n,2);
+- [drawing-graph-1.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/drawing-graph-1.py) : receiving as input a integer n generate automatically a image in .png with drawing of K(n,2) using this method as output;
 
 # Table Output of desenho.py
 
