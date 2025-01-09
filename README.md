@@ -7,14 +7,14 @@ My CV : http://lattes.cnpq.br/5805215370543596
 # Description of my TCC
 
 Before of TCC, I worked 2 years in undergraduate research about crossing number in 2-pages of Kneser Graph K(n,2) with orientation of Professor Luerbio Faria and colaboration of Mario Valencia Pabon and Jonas Carvalho.
-In this research, we built a method of drawing in 2-pages K(n,2) and drawed K(6,2) and K(8,2). We find a upper and lower bound for crossing number in 2-pages for Kneser Graph &nu;_2(K(n,2)) $\nu_2(K(n,2))$ in case even number of vertices with asymptotic value of &Theta;(n^8) = &Theta;(|V(K(n,2))|^4) with leading term for lower bound of 2^-13 and leading term for upper bound of 2^-10 (before, the lower bound was &Omega;(n^5) asymptotic in TCC of Jonas Carvalho).
+In this research, we built a method of drawing in $2$-pages $K(n,2)$ and drawed $K(6,2)$ and $K(8,2)$. We find a upper and lower bound for crossing number in $2$-pages for Kneser Graph $\nu_2(K(n,2))$ in case even number of vertices with asymptotic value of $\Theta(n^8) = \Theta(|V(K(n,2))|^4)$ with leading term for lower bound of $2^{-13}$ and leading term for upper bound of $2^{-10}$ (before, the lower bound was $\Omega(n^5)$ asymptotic in TCC of Jonas Carvalho).
 
-In my TCC, I find and proof a upper and lower bound of &nu;_2(K(n,2)) for odd case using the same drawing method, and proof asymptotic value of &Theta;(n^8) with leading term for lower bound of 2^-13 and leading term for upper bound of 2^-10. Finally, I proof that &nu;(K(n,2)) = &nu;_2(K(n,2)) = &Theta;(n^8) = &Theta;(|V(K(n,2))|^4) with leading term for lower bound of 2^-13 and leading term for upper bound of 2^-10 for even and odd cases. Further, I implemented 4 codes in python:
+In my TCC, I find and proof a upper and lower bound of $\nu_2(K(n,2))$ for odd case using the same drawing method, and proof asymptotic value of $\Theta(n^8)$ with leading term for lower bound of $2^{-13}$ and leading term for upper bound of $2^{-10}$. Finally, I proof that $\nu(K(n,2)) = \nu_2(K(n,2)) = \Theta(n^8) = \Theta(|V(K(n,2))|^4)$ with leading term for lower bound of $2^{-13}$ and leading term for upper bound of $2^{-10}$ for even and odd cases. Further, I implemented 4 codes in python:
 
-- [desenho.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/desenho.py) : calculate the &nu;_2(K(n,2)) and each of 5 crossing types, for any n using this drawing method;
-- [slope.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/slope.py) : code implemented the Slope Algorithm[Klerk,Pasechnik,Salazar’2018] used in this work because give the optimal drawing in 2-pages for Complete Graph;
-- [berge.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/berge.py) : Berge Algorithm[Claude Berge’1973] that Mario Pabon introduce for create a hamiltonian cycle with separated cliques of K(n,2) . The code output a table in that each cell are a vertice and each column are a clique of K(n,2), and  Hamiltonian Path for K(n,2);
-- [drawing-graph-1.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/drawing-graph-1.py) : receiving as input a integer n generate automatically a image in .png with drawing of K(n,2) using this method as output;
+- [desenho.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/desenho.py) : calculate the $\nu_2(K(n,2))$ and each of 5 crossing types, for any n using this drawing method;
+- [slope.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/slope.py) : code implemented the Slope Algorithm[Klerk,Pasechnik,Salazar’2018] used in this work because give the optimal drawing in $2$-pages for Complete Graph $K_n$;
+- [berge.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/berge.py) : Berge Algorithm[Claude Berge’1973] that Mario Pabon introduce for create a hamiltonian cycle with separated cliques of $K(n,2)$ . The code output a table in that each cell are a vertice and each column are a clique of $K(n,2)$, and  Hamiltonian Path for $K(n,2)$;
+- [drawing-graph-1.py](https://github.com/AntonioDRSousa/TCC-Grafos/blob/main/drawing-graph-1.py) : receiving as input a integer n generate automatically a image in .png with drawing of $K(n,2)$ using this method as output;
 
 # Table Output of desenho.py
 
@@ -24,47 +24,47 @@ In my TCC, I find and proof a upper and lower bound of &nu;_2(K(n,2)) for odd ca
 
 # Images Output of drawing-graph-1.py
 
-K(6,2)
+$K(6,2)$
 <figure>
 	<img src="img/k62.jpg">
 </figure>
 
-K(7,2)
+$K(7,2)$
 <figure>
 	<img src="img/k72.jpg">
 </figure>
 
-K(8,2)
+$K(8,2)$
 <figure>
 	<img src="img/k82.jpg">
 </figure>
 
-K(9,2)
+$K(9,2)$
 <figure>
 	<img src="img/k92.jpg">
 </figure>
 
-K(10,2)
+$K(10,2)$
 <figure>
 	<img src="img/k102.jpg">
 </figure>
 
-K(11,2)
+$K(11,2)$
 <figure>
 	<img src="img/k112.jpg">
 </figure>
 
-K(12,2)
+$K(12,2)$
 <figure>
 	<img src="img/k122.jpg">
 </figure>
 
-K(13,2)
+$K(13,2)$
 <figure>
 	<img src="img/k132.jpg">
 </figure>
 
-K(14,2)
+$K(14,2)$
 <figure>
 	<img src="img/k142.jpg">
 </figure>
