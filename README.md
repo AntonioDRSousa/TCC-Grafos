@@ -14,7 +14,6 @@ In my TCC, I find and proof a upper and lower bound of &nu;_2(K(n,2)) for odd ca
 
 # Table Output of desenho.py
 
-K(6,2)
 <figure>
 	<img src="img/table.jpg">
 	<figcaption>Table</figcaption>
@@ -22,6 +21,7 @@ K(6,2)
 
 # Images Output of drawing-graph-1.py
 
+K(6,2)
 <figure>
 	<img src="img/k62.jpg">
 	<figcaption>K(6,2)</figcaption>
