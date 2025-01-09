@@ -22,47 +22,47 @@ In my TCC, I find and proof a upper and lower bound of &nu;_2(K(n,2)) for odd ca
 # Images Output of drawing-graph-1.py
 
 <figure>
-	<img src="img/K(6,2).jpg">
+	<img src="img/k62.jpg">
 	<figcaption>K(6,2)</figcaption>
 </figure>
 
 <figure>
-	<img src="img/K(7,2).jpg">
+	<img src="img/k72.jpg">
 	<figcaption>K(7,2)</figcaption>
 </figure>
 
 <figure>
-	<img src="img/K(8,2).jpg">
+	<img src="img/k82.jpg">
 	<figcaption>K(8,2)</figcaption>
 </figure>
 
 <figure>
-	<img src="img/K(9,2).jpg">
+	<img src="img/k92.jpg">
 	<figcaption>K(9,2)</figcaption>
 </figure>
 
 <figure>
-	<img src="img/K(10,2).jpg">
+	<img src="img/k102.jpg">
 	<figcaption>K(10,2)</figcaption>
 </figure>
 
 <figure>
-	<img src="img/K(11,2).jpg">
+	<img src="img/k112.jpg">
 	<figcaption>K(11,2)</figcaption>
 </figure>
 
 <figure>
-	<img src="img/K(12,2).jpg">
+	<img src="img/k122.jpg">
 	<figcaption>K(12,2)</figcaption>
 </figure>
 
 <figure>
-	<img src="img/K(13,2).jpg">
+	<img src="img/k132.jpg">
 	<figcaption>K(13,2)</figcaption>
 </figure>
 
 <figure>
-	<img src="img/K(14,2).jpg">
+	<img src="img/k142.jpg">
 	<figcaption>K(14,2)</figcaption>
 </figure>
 
