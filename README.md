@@ -1,5 +1,9 @@
 # TCC-Grafos
 
+# CV
+
+My CV: http://lattes.cnpq.br/5805215370543596
+
 # Description of my TCC
 
 Before of TCC, I worked 2 years in undergraduate research about crossing number in 2-pages of Kneser Graph K(n,2) with orientation of Professor Luerbio Faria and colaboration of Mario Valencia Pabon and Jonas Carvalho.
