@@ -12,9 +12,16 @@ In my TCC, I find and proof a upper and lower bound of &nu;_2(K(n,2)) for odd ca
 - berge.py : Berge Algorithm[Claude Berge’1973] that Mario Pabon introduce for create a hamiltonian cycle with separated cliques of K(n,2);
 - drawing-graph-1.py : receiving as input a integer n generate automatically a image in .png with drawing of K(n,2) using this method as output;
 
-# Tables
+# Table Output of desenho.py
 
-# Images
+<figure>
+	<img src="img/table.jpg">
+	<figcaption>Table</figcaption>
+</figure>
+
+# Images Output of drawing-graph-1.py
+
+
 
 # Links of TCC, Slides and Articles/Papers
 
