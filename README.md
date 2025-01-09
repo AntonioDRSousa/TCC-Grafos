@@ -19,6 +19,7 @@ In my TCC, I find and proof a upper and lower bound of &nu;_2(K(n,2)) for odd ca
 # Links of TCC, Slides and Articles/Papers
 
 The TCC is in link https://drive.google.com/file/d/1rdVQt4bduckDHM-4cPLVyeTVlDao-Lz0/view
+
 Slides of TCC is in link https://drive.google.com/file/d/1VZG9J99U7KstsfIcAhQi-4EssC_GrHdH/view
 
 Slides of apresentations of undergraduate research: 
