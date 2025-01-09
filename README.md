@@ -15,13 +15,11 @@ In my TCC, I find and proof a upper and lower bound of &nu;_2(K(n,2)) for odd ca
 # Table Output of desenho.py
 
 <figure>
-	<img src="img/table.jpg">
+	<img src="img/table.jpg"  alt="clcon">
 	<figcaption>Table</figcaption>
 </figure>
 
 # Images Output of drawing-graph-1.py
-
-
 
 # Links of TCC, Slides and Articles/Papers
 
