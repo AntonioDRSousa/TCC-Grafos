@@ -7,7 +7,7 @@ My CV : http://lattes.cnpq.br/5805215370543596
 # Description of my TCC
 
 Before of TCC, I worked 2 years in undergraduate research about crossing number in 2-pages of Kneser Graph K(n,2) with orientation of Professor Luerbio Faria and colaboration of Mario Valencia Pabon and Jonas Carvalho.
-In this research, we built a method of drawing in 2-pages K(n,2) and drawed K(6,2) and K(8,2). We find a upper and lower bound for crossing number in 2-pages for Kneser Graph &nu;_2(K(n,2)) in case even number of vertices with asymptotic value of &Theta;(n^8) = &Theta;(|V(K(n,2))|^4) with leading term for lower bound of 2^-13 and leading term for upper bound of 2^-10 (before, the lower bound was &Omega;(n^5) asymptotic in TCC of Jonas Carvalho).
+In this research, we built a method of drawing in 2-pages K(n,2) and drawed K(6,2) and K(8,2). We find a upper and lower bound for crossing number in 2-pages for Kneser Graph &nu;_2(K(n,2)) $nu_2(K(n,2))$ in case even number of vertices with asymptotic value of &Theta;(n^8) = &Theta;(|V(K(n,2))|^4) with leading term for lower bound of 2^-13 and leading term for upper bound of 2^-10 (before, the lower bound was &Omega;(n^5) asymptotic in TCC of Jonas Carvalho).
 
 In my TCC, I find and proof a upper and lower bound of &nu;_2(K(n,2)) for odd case using the same drawing method, and proof asymptotic value of &Theta;(n^8) with leading term for lower bound of 2^-13 and leading term for upper bound of 2^-10. Finally, I proof that &nu;(K(n,2)) = &nu;_2(K(n,2)) = &Theta;(n^8) = &Theta;(|V(K(n,2))|^4) with leading term for lower bound of 2^-13 and leading term for upper bound of 2^-10 for even and odd cases. Further, I implemented 4 codes in python:
 
