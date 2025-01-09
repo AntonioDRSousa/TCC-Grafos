@@ -29,6 +29,6 @@ Slides of apresentations of undergraduate research:
 Links of published articles/papers of undergraduate research:
 - de Sousa, A. D. R., Carneiro, J., Faria, L., Pabon, M. V., Sobre o número de cruzamentos do grafo de Kneser K (n,2). In: Anais do VII Encontro de Teoria da Computação. SBC, 2022. p. 61-64. https://sol.sbc.org.br/index.php/etc/article/view/20659/204
 - de Sousa, A. D. R., Carneiro, J., Faria, L., Pabon, M. V., Sobre o número de cruzamentos do grafo de Kneser K(n, 2) (resumo), II Encontro de Mulheres na Matemática, 2022. https://drive.google.com/file/d/1yC6RkN-VvT6UCCjCG6VPNgrIgQ9kVJ1z/view
-- de Sousa, A. D. R., Carneiro, J., Faria, L., Pabon, M. V., How to draw a K(n,2) Kneser graph?, in Proceedings of the 10th Latin American Workshop on Cliques in Graphs - LAWCG' 22 (resumo), pp. 45.https://www.lawcg.mat.br/lawcg22/
+- de Sousa, A. D. R., Carneiro, J., Faria, L., Pabon, M. V., How to draw a K(n,2) Kneser graph?, in Proceedings of the 10th Latin American Workshop on Cliques in Graphs - LAWCG' 22 (resumo), pp. 45. https://www.lawcg.mat.br/lawcg22/
 
 
