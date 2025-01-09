@@ -39,7 +39,6 @@ K(8,2)
 K(9,2)
 <figure>
 	<img src="img/k92.jpg">
-	<figcaption>K(9,2)</figcaption>
 </figure>
 
 K(10,2)
