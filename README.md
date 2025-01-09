@@ -15,11 +15,56 @@ In my TCC, I find and proof a upper and lower bound of &nu;_2(K(n,2)) for odd ca
 # Table Output of desenho.py
 
 <figure>
-	<img src="img/table.jpg"  alt="clcon">
+	<img src="img/table.jpg">
 	<figcaption>Table</figcaption>
 </figure>
 
 # Images Output of drawing-graph-1.py
+
+<figure>
+	<img src="img/K(6,2).jpg">
+	<figcaption>K(6,2)</figcaption>
+</figure>
+
+<figure>
+	<img src="img/K(7,2).jpg">
+	<figcaption>K(7,2)</figcaption>
+</figure>
+
+<figure>
+	<img src="img/K(8,2).jpg">
+	<figcaption>K(8,2)</figcaption>
+</figure>
+
+<figure>
+	<img src="img/K(9,2).jpg">
+	<figcaption>K(9,2)</figcaption>
+</figure>
+
+<figure>
+	<img src="img/K(10,2).jpg">
+	<figcaption>K(10,2)</figcaption>
+</figure>
+
+<figure>
+	<img src="img/K(11,2).jpg">
+	<figcaption>K(11,2)</figcaption>
+</figure>
+
+<figure>
+	<img src="img/K(12,2).jpg">
+	<figcaption>K(12,2)</figcaption>
+</figure>
+
+<figure>
+	<img src="img/K(13,2).jpg">
+	<figcaption>K(13,2)</figcaption>
+</figure>
+
+<figure>
+	<img src="img/K(14,2).jpg">
+	<figcaption>K(14,2)</figcaption>
+</figure>
 
 # Links of TCC, Slides and Articles/Papers
 
